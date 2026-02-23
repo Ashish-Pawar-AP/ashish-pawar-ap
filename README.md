@@ -1,55 +1,119 @@
-## Hi there 👋
-
-<!--
-**Ashish-Pawar-AP/ashish-pawar-ap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm Ashish Pawar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Building Scalable & Real-Time Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-pawar-ap&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-pawar-ap" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-pawar-ap" alt="ashish-pawar-ap" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://ashish-pawar-portfolio.vercel.app/](https://ashish-pawar-portfolio.vercel.app/)
-
-- 📫 How to reach me **ashishpawarap1904@gmail.com**
-
-- 📄 Know about my experiences [https://ashish-pawar-portfolio.vercel.app/Ashish_CV.pdf](https://ashish-pawar-portfolio.vercel.app/Ashish_CV.pdf)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ap.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ap.dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-pawar-ap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-pawar-ap" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/1dsx7gbsy2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1dsx7gbsy2/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ashish_pawar_19?igsh=mtdnahg2ewlyynq0ma==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ashish_pawar_19?igsh=mtdnahg2ewlyynq0ma==" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://ashish-pawar-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:ashishpawarap1904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ashish-pawar-ap" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-pawar-ap&show_icons=true&locale=en&layout=compact" alt="ashish-pawar-ap" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashish-pawar-ap&show_icons=true&locale=en" alt="ashish-pawar-ap" /></p>
+- 🎓 BSc Computer Science Graduate  
+- 💻 Passionate about **Full Stack Web Development**
+- 🌱 Currently exploring **Next.js & System Design**
+- ⚡ Strong interest in building **real-time apps & scalable backend systems**
+- 🎮 Game development enthusiast (Unity)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-pawar-ap&" alt="ashish-pawar-ap" /></p>
+I love building projects that solve real problems and improve user experience.
 
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Code-Sync  
+> Real-time collaborative code editor  
+- Built with MERN + Socket.io  
+- Multi-user collaboration  
+- Live code editing & syncing  
+
+### 🔐 CodeVault — Secure Snippet Management Platform
+> A production-ready MERN application designed for developers to securely store and manage reusable code snippets.
+- Implemented JWT-based authentication & protected APIs  
+- Designed modular backend architecture (MVC pattern)  
+- Built optimized MongoDB schema for scalable data storage  
+- Developed dynamic filtering & search functionality  
+- Created responsive UI using TailwindCSS  
+
+### 🔹 Personal Finance Dashboard  
+> Full-stack MERN finance tracking app  
+- Income, expense & savings tracking  
+- Data visualization & analytics  
+- Secure authentication  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,js,ts" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vercel,unity" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-pawar-ap&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-pawar-ap&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-pawar-ap&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ashish-pawar-ap" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+</a>
+<a href="https://dev.to/ap.dev" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=devto" height="30" />
+</a>
+<a href="mailto:ashishpawarap1904@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+</a>
+</p>
+
+---
+
+## 📈 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashish-pawar-ap&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🎯 Current Goal
+
+Actively seeking **Junior Full Stack Developer / MERN Stack Developer** opportunities  
+Open to collaborations and innovative product-based startups.
+
+---
+
+⭐️ From [Ashish-Pawar-AP](https://github.com/Ashish-Pawar-AP)
