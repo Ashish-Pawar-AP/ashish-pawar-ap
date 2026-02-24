@@ -35,15 +35,14 @@ I love building projects that solve real problems and improve user experience.
 - Multi-user collaboration  
 - Live code editing & syncing  
 
-### 🔐 CodeVault — Secure Snippet Management Platform
-> A production-ready MERN application designed for developers to securely store and manage reusable code snippets.
-- Implemented JWT-based authentication & protected APIs  
-- Designed modular backend architecture (MVC pattern)  
-- Built optimized MongoDB schema for scalable data storage  
-- Developed dynamic filtering & search functionality  
-- Created responsive UI using TailwindCSS  
+### 🔹 [CodeVault](https://github.com/Ashish-Pawar-AP/CodeVault)  
+> Secure snippet management platform  
+- Built with MERN stack  
+- JWT authentication & protected APIs  
+- Store, manage & search reusable code snippets  
+- Responsive UI with TailwindCSS
 
-### 🔹 Personal Finance Dashboard  
+### 🔹 [Personal Finance Dashboard](https://github.com/Ashish-Pawar-AP/Personal-Finance-Dashboard) 
 > Full-stack MERN finance tracking app  
 - Income, expense & savings tracking  
 - Data visualization & analytics  
@@ -90,16 +89,17 @@ I love building projects that solve real problems and improve user experience.
 
 <p align="left">
 <a href="https://linkedin.com/in/ashish-pawar-ap" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="30" style="margin-right:15px;" />
 </a>
+
 <a href="https://dev.to/ap.dev" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=devto" height="30" />
+<img src="https://skillicons.dev/icons?i=devto" height="30" style="margin-right:15px;" />
 </a>
+
 <a href="mailto:ashishpawarap1904@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="30" />
+<img src="https://skillicons.dev/icons?i=gmail" height="30" />
 </a>
 </p>
-
 ---
 
 ## 📈 Profile Views
