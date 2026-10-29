@@ -114,8 +114,16 @@ I enjoy turning practical problems into useful applications, with an emphasis on
 ## GitHub at a Glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashish-Pawar-AP&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Pawar-AP&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Ashish-Pawar-AP&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight"
+    alt="GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ashish-Pawar-AP&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
